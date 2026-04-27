@@ -12,6 +12,7 @@
   <modules>
     <module>IoCAndDI</module>
     <module>BeanLifeCycle</module>
+    <module>ApplicationContextConfiguration</module>
   </modules>
 
   <properties>

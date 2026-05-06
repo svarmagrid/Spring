@@ -13,6 +13,8 @@
     <module>IoCAndDI</module>
     <module>BeanLifeCycle</module>
     <module>ApplicationContextConfiguration</module>
+    <module>AutoConfiguration</module>
+    <module>SpringTest</module>
   </modules>
 
   <properties>
